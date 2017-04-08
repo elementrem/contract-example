@@ -46,10 +46,10 @@ cd $HOMEDIR
 cd 
 mkdir solidity
 cd solidity
-wget https://github.com/elementrem/solidity/releases/download/v0.3.6/linux-ubuntu-xenial-solc-0.3.6-compilier.tar.gz
-wget https://github.com/elementrem/solidity/releases/download/v0.3.6/solc-0.3.6-dependency.tar.gz
-tar -xvzf ./linux-ubuntu-xenial-solc-0.3.6-compilier.tar.gz
-tar -xvzf ./solc-0.3.6-dependency.tar.gz
+wget https://github.com/elementrem/solidity/releases/download/v0.4.10/Elementrem-Solidity-0.4.10.tar.gz
+wget https://github.com/elementrem/solidity/releases/download/v0.4.10/Elementrem-solidity-dependencies.0.4.10.tar.gz
+tar -xvzf ./Elementrem-Solidity-0.4.10.tar.gz
+tar -xvzf ./Elementrem-solidity-dependencies.0.4.10.tar.gz
 sudo dpkg -i libboost-program-options1.58.0_1.58.0+dfsg-5ubuntu3_amd64.deb
 sudo dpkg -i libjsoncpp1_1.7.2-1_amd64.deb
 sudo dpkg -i libboost-system1.58.0_1.58.0+dfsg-5ubuntu3_amd64.deb
@@ -58,7 +58,9 @@ sudo apt-get -y install libboost-filesystem-dev
 sudo apt -y update
 sudo apt-get -f -y install
 sudo dpkg -i libboost-filesystem-dev_1.58.0.1ubuntu1_amd64.deb
-sudo dpkg -i solc_0.3.6-0ubuntu1~xenial_amd64.deb
+sudo cp -r bin /usr
+sudo cp -r lib /usr
+sudo cp -r share /usr
 cd $HOMEDIR
 rm -rf solidity
 

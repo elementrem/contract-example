@@ -140,7 +140,7 @@ You should make sure whether the ***solidity compiler*** is applied or not.
 If the ***solidity*** is not applied, You can apply it manually.
 ```
 > admin.setSolc("/usr/bin/solc")
-"solc, the solidity compiler commandline interface\nVersion: 0.3.6-0/None-Linux/g++\n\npath: /usr/bin/solc"
+"solc, the solidity compiler commandline interface\nVersion: 0.4.10-develop.2017.4.4+commit.63bb23e8.mod.Linux.g++\n\npath: /usr/bin/solc"
 ```
 
 - Compiling from the console
