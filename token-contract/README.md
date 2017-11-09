@@ -102,6 +102,7 @@ contract MyToken {
 **3. Specify the parameters.**      
 On the right column you'll see all the parameters you need to personalize your own token. You can tweak them as you please.     
 Scroll to the end of the page and you'll see an estimate of the computation cost of that contract and you can select a fee on how much ether you are willing to pay for it. Any excess ether you don't spend will be returned to you so you can leave the default settings if you wish. Press "deploy", type your account password and wait a few seconds for your transaction to be picked up.
+
 ![](img/2.png)      
       
 ------------------------------      
@@ -150,3 +151,6 @@ From now on, other users can use tokens.
 ***Congratulations! Both the user who created the token and the user who added the token can see a menu that allows them to select and send tokens.***      
 ![](img/10.png)   
 ![](img/11.png) 
+
+
+* Tracking of the Token will be activated in the new BlockExplorer, which will be launched in December.
