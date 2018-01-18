@@ -183,14 +183,14 @@ contract TokenERC20 {
 On the right column you'll see all the parameters you need to personalize your own token. You can tweak them as you please.     
 Scroll to the end of the page and you'll see an estimate of the computation cost of that contract and you can select a fee on how much ether you are willing to pay for it. Any excess ether you don't spend will be returned to you so you can leave the default settings if you wish. Press "deploy", type your account password and wait a few seconds for your transaction to be picked up.
 
-![](img/ERC_20_contract_1.png)      
+![](img/ERC%2020%20contract%201.png)      
       
 ------------------------------      
       
 
 
 **4. Deploy Contract.**     
-![](img/ERC_20_contract_2.png)      
+![](img/ERC%2020%20contract%202.png)      
       
 ------------------------------      
       
