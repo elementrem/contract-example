@@ -153,4 +153,4 @@ From now on, other users can use tokens.
 ![](img/11.png) 
 
 
-* Tracking of the Token will be activated in the new BlockExplorer, which will be launched in December.
+* Tracking of the Token will be activated in the new BlockExplorer.
