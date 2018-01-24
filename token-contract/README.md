@@ -1,5 +1,7 @@
 ### Elementrem ERC 20 Token (Coin) contract
 
+***The information in this section of the elementrem smartcontract-eg github is updated constantly.***
+
 You can create a new Token (Coin) using the `Elementrem platform.`            
 It is very easy and fast to deploy, and above all, you can use your Coin in a wide variety of areas. 
 All of these work in the Elementrem platform.
