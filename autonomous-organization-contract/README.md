@@ -1,5 +1,9 @@
 ### Elementrem autonomous-organization-contract
 
+
+***All code is available in Elementrem Mist_wallet 0.9.3 or later. A detailed manual update is in progress.***
+
+
 ```
 pragma solidity ^0.4.17;
 
