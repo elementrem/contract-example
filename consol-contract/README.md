@@ -1,6 +1,6 @@
 # Elementrem SmartContract
 
-![](img/200x200 Elementrem logo.png)
+***The information in this section of the elementrem smartcontract-eg github is updated constantly.***
 
 ***
 
