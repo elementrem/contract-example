@@ -22,7 +22,7 @@ You do not have to write `Element Amount`. All contracts require only gas(commis
       
 **2. Write the `solidity contract source code.`**     
 Copy and paste the following code very simply.
-```
+```solidity
 pragma solidity ^0.4.17;
 
 interface tokenRecipient { function receiveApproval(address _from, uint256 _value, address _token, bytes _extraData) public; }
